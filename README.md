@@ -1,4 +1,4 @@
-# UDPdserver_client_temperature
+# UDPserver_client_temperature
 This is a Git repository that contains the Python script for Assignment 4 - Part 1 of the _Advanced Python Programming Part-Time Course_ of Cardiff University.
 
 This python UDP client/server application converts a Centigrade temperatre into a Fahrenheit temperature. Python socket programming and GUI were used.
